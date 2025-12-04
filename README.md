@@ -100,7 +100,7 @@ The app will be available at: http://localhost:5173
 
 ## 🌐 Live Demo
 
-🔗 [**Visit Portfolio**](https://tanishqdev-portfolio.vercel.app/)
+🔗 [**Visit Portfolio**](https://vivek.devcorebit.com/)
 
 ---
 
@@ -112,7 +112,6 @@ Special thanks to the amazing open-source project [ReactBits.dev](https://www.re
 
 ## 📬 Let’s Connect
 
-- 🧑‍💻 [LinkedIn](www.linkedin.com/in/tanishq-shinde977)
-- 🌟 [GitHub](https://github.com/Tanishq-789)
+- 🌟 [GitHub](https://github.com/Vivekworks114)
 
 > ⭐ Found this helpful? Drop a star and fork the repo to build your own!  
